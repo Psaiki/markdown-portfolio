@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+### A link to my Github profile:
+
+[Clickety Click to go to Psaiki's profile: ](http://github.com/Psaiki)
